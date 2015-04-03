@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-#Contact Us!
-**We would love to hear from you!**
 
 ###Contact Information
  
