@@ -4,7 +4,8 @@ title: People
 permalink: /people/
 ---
 
-![group1](img/group1.jpg) ![group2](img/group2.jpg)
+![group1](../img/group1.jpg) 
+![group2](../img/group2.jpg)
 
 #Lab Members
 

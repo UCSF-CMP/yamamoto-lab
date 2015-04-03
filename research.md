@@ -17,7 +17,7 @@ Developing new tools & approaches to discover novel NHR ligands
 Breaking down transcriptional regulation into a series of discrete, assayable biochemical steps
 Developing methods to analyze high-throughput sequencing data
 
-![research](img/research_gr.png)
+![research](../img/research_gr.png)
 
 #Methods
 To address these questions, we use employ biochemical, cellular, molecular, genetic and structural approaches in human cell culture, C. elegans, yeast, and in vitro to investigate IR functions and mechanisms.
