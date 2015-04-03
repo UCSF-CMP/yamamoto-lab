@@ -256,7 +256,7 @@ pre {
     display: none; } }
 /*end of the UCSF banner*/
 .site-nav {
-  float: right;
+  float: left;
   line-height: 56px; }
   .site-nav .menu-icon {
     display: none; }
