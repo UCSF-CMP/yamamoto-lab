@@ -4,30 +4,34 @@ title: People
 permalink: /people/
 ---
 
-![group1](img/group1.jpg) ![group2](img/group2.jpg)
+![group1](../img/group1.jpg) 
 
 #Lab Members
 
-Alessandro Scacchetti
+[Alessandro Scacchetti]({{ site.baseurl}}/scacchetti)
 
-Deborah Thurtle
+[Deborah Thurtle]({{ site.baseurl}}/thurtle)
 
-Gabriela Monsalve
+[Gabriela Monsalve]({{ site.baseurl}}/monsalve)
 
-Jenny Banaszek
+[Jenny Banaszek]({{ site.baseurl}}/banaszek)
 
-Jordan Ward
+[Jordan Ward]({{ site.baseurl}}/ward)
 
-Keith Yamamoto
+[Keith Yamamoto]({{ site.baseurl}}/yamamoto)
 
-Kirk Ehmsen
+[Kirk Ehmsen]({{ site.baseurl}}/ehmsen)
 
-Lindsey Pack
+[Lindsey Pack]({{ site.baseurl}}/pack)
 
-Masako Asahina
+[Masako Asahina]({{ site.baseurl}}/asahina)
 
-Matthew Knuesel
+[Matthew Knuesel]({{ site.baseurl}}/knuesel)
 
-Teresita Bernal
+[Teresita Bernal]({{ site.baseurl}}/bernal)
 
-Vicky Chan
+[Vicky Chan]({{ site.baseurl}}/chan)
+
+![group2](../img/group2.jpg)
+
+
