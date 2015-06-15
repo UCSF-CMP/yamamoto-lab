@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: policy
 title: People
 permalink: /people/
+image1: ../img/group1.jpg
+image2: ../img/group2.jpg
 ---
-
-![group1](../img/group1.jpg) 
 
 #Lab Members
 
@@ -32,6 +32,5 @@ permalink: /people/
 
 [Vicky Chan]({{ site.baseurl}}/chan)
 
-![group2](../img/group2.jpg)
 
 

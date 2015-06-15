@@ -12,7 +12,7 @@ Joint graduate student with the Fujimori Lab
 
 **Research Interests**
 
-***  
+
 
 **Education**
 
@@ -25,7 +25,6 @@ The Ohio State University
 Advisor: Dr. Zucai Suo
 
  
-***
  
 
 **Selected publications**
@@ -59,7 +58,6 @@ Brown, J.A., Pack, L.R., Sherrer, S.M., Kshetry, A.K., Newmister, S.A., Fowler, 
 Sherrer S.M., Brown J.A., Pack L.R., Jasti V.P., Fowler J.D., Basu A.K., and Suo Z.* (2009) Mechanistic Studies of the Bypass of a Bulky Single-Base Lesion Catalyzed by a Y-family DNA Polymerase, J. Biol. Chem. 284, 6379-8863.
 
  
-***
  
 
 **Hobbies and skills**

@@ -6,11 +6,10 @@ permalink: /monsalve/
 ---
 ![monsalve pic](../img/monsalve.jpg)
 
-	Gabriela.Monsalve@ucsf.edu
+Gabriela.Monsalve@ucsf.edu
 
 Glucocorticoids (GCs) are lipophilic hormones that regulate a range of essential physiologic processes in vertebrates. GCs bind to and activate the glucocorticoid receptor (GR), which modulates transcription of cell-specific target genes in virtually all cell types. The intracellular concentrations of GCs modulate the activity of GR, but mechanisms that affect hormone entry into cells have not been thoroughly investigated. To identify the factors underlying the mediated transport of GCs, I am using a combination of biochemistry, genetic and chemical screens in mammalian and nematode model systems. This work will define novel molecular pathways of steroid transport and establish a new layer of metazoan gene regulation.
 
-*** 
 
 **Education**
 
@@ -48,7 +47,6 @@ Advisor: Professor Nicholas Spitzer
 
 2008-2011             National Academy of Sciences, Ford Foundation Predoctoral Fellow
 
-*** 
 
 **Selected publications**
 
@@ -70,13 +68,10 @@ Monsalve GC, Van Buskirk C, and Frand AR. LIN-42/PERIOD controls cyclical and de
 
 Root CM, Velázquez-Ulloa NA, Monsalve GC, Minakova E, and Spitzer NC. Embryonically expressed GABA and glutamate drive electrical activity regulating neurotransmitter specification. Journal of Neuroscience. 2008 Apr 30; 28(18):4777-84. doi: 10.1523/JNEUROSCI.4873-07.2008.
 
-***
 
 **Hobbies and skills**
 
 I love to dance salsa, read about string theory, hike in the redwoods, run, enjoy good whiskey, and play piano.
-
-*** 
 
 **Languages**
 

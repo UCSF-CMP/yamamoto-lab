@@ -7,11 +7,10 @@ permalink: /asahina/
 
 ![Masako Image](../img/asahina.jpg)
 
-	masako.asahina@ucsf.edu
+masako.asahina@ucsf.edu
 
 Multicellular organisms have intriguing capabilities to respond to environmental and physiological cues, transduce the signal as tissue-specific or cell-context dependent information and mobilize gene activities to be flexible to keep homeostasis. While many genes are involved in the process, I am interested in the mechanism how single nuclear receptor (NR) modulates pleiotropic activities. I am focusing on the action of NHR-25/NR5A in C. elegans utilizing its compact genome, feasibility of a single-cell-resolution phenotypic analysis and large-scale genetic analysis.
 
-*** 
 
 **Current affiliations** (C. elegans physiology and genetics):
 
@@ -19,7 +18,6 @@ University of California, San Francisco (Dr. Keith Yamamoto, Dr. Kaveh Ashrafi)
 
 Biology Centre, Academy of Sciences of the Czech Republic, Budweis, Czech Republic
 
-*** 
 
 **Ph.D study** (C. elegans genetics and developmental biology):
 
@@ -27,15 +25,12 @@ National Institute of Genetics (Dr. Susumu Hirose), Mishima, Japan
 
 University of South Bohemia (Dr. Marek Jindra), Budweis Czech Republic
 
-***
 
 **Undergraduate study** (Insect physiology, endocrinology, developmental biology):
 
 Tokyo University of Agriculture and Technology (Dr. Hajime Fugo), Tokyo, Japan
 
 University of Washington (Dr. Lynn Riddiford), Seattle, USA
-
-***
  
 
 **Selected publications**
@@ -66,13 +61,11 @@ W Pellis-van Berkel, M H G Verheijen, E Cuppen, M Asahina, J de Rooij, G Jansen,
 
 Asahina M, Ishihara T, Jindra M, Kohara Y, Katsura I, et al. (2000) The conserved nuclear receptor Ftz-F1 is required for embryogenesis, moulting and reproduction in Caenorhabditis elegans. Genes Cells 5: 711–723
 
-*** 
 
 **Hobbies and skills**
 
 Piano playing, Taiko (Japanese drum) drumming, B&W film photographing
 
-***
 
 **Language**
 

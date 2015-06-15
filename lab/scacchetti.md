@@ -7,13 +7,12 @@ permalink: /scacchetti/
 ![scacchetti pic](../img/scacchetti.jpg)
 
 
-	alessandr.scacchetti@studio.unibo.it
+alessandr.scacchetti@studio.unibo.it
 
  
 
 Visiting student from University of Bologna, Italy.
 
-*** 
 
 **Research interests**
 
@@ -21,7 +20,7 @@ Visiting student from University of Bologna, Italy.
 
 My current research project focuses on defining regulatory complexes that render B- and T- cell Acute Lymphoblastic Leukemia (ALL) sensitive to apoptosis in response to glucocorticoids, and that cause some of these tumor cells to be resistant to glucocorticoid therapy. Glucocorticoids are primary components in highly efficacious therapeutic cocktails for ALL; however, some patients display glucocorticoid resistance, which leads to a poor prognosis. To characterize regulatory complexes that specify the various outcomes, I am identifying genes essential for each phenotypic effect, and seek then to describe changes in regulatory complexes, mechanisms and networks responsible for glucocorticoid sensitivity and resistance.
 
-*** 
+
 
 **Education**
 
@@ -45,7 +44,6 @@ Summa cum laude
 
 Advisor: Prof. Davide Ambrosetti
 
-*** 
 
 **Hobbies and skills**
 

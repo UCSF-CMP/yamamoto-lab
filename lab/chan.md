@@ -6,7 +6,7 @@ permalink: /chan/
 ---
 ![chan image](../img/chan.jpg)
 
-	vicky.chan@ucsf.edu
+vicky.chan@ucsf.edu
 
 **Education:**
  

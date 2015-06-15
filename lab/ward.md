@@ -6,7 +6,7 @@ permalink: /ward/
 ---
 ![ward pic](../img/ward.jpg)
 
-	jordan.ward@ucsf.edu
+jordan.ward@ucsf.edu
 
  
 
@@ -16,7 +16,7 @@ Animals precisely control when and where genes are expressed; failure to do so c
 
 My work using C. elegans to study parasitic nematode molting has been funded by a recently awarded K99 grant from the National Institute of General Medical Sciences. Writing a K99 was a challenging, ultimately rewarding experience. I have shared my K99 advice on the strategic planning that I undertook before writing the grant, as well as a list of resources that I found particularly helpful, in an article that I posted on my website: http://www.jordandward.com/k99-grant-writing.html
 
-*** 
+
 
 •               Personal website: <http://www.jordandward.com>
 
@@ -26,7 +26,7 @@ My work using C. elegans to study parasitic nematode molting has been funded by 
 
 •               Twitter: <https://twitter.com/Jordan_D_Ward>
 
-*** 
+
 
 **Education**
 
@@ -74,7 +74,7 @@ University of Alberta/Red Deer College (Advisor: Prof. George Owttrim)
 
 2009-2011               Terry Fox Foundation Postdoctoral Fellowship (#700046)
 
-***  
+
 
 **Peer reviewed publications** (*denotes equal contribution, #denotes corresponding authorship)
 
@@ -120,7 +120,7 @@ University of Alberta/Red Deer College (Advisor: Prof. George Owttrim)
 
 20.  Collis, S.J., L.J. Barber, J.D. Ward, J.S. Martin, and S.J. Boulton. (2006) C. elegans FANCD2 responds to replication stress and functions in interstrand cross-link repair. DNA Repair. 11: 1398-406
 
-*** 
+
 
 **Articles, blogs, other publications**
 

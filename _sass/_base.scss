@@ -43,7 +43,16 @@ ul, ol, dl, figure,
 img {
     max-width: 100%;
     vertical-align: middle;
+    margin: 0 auto;
+    display: block;
 }
+
+img.sideBySide {
+    max-width: 49%;
+    display: inline-block;
+    text-align: center;
+}
+
 
 
 

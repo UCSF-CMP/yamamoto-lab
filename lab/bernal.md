@@ -6,12 +6,11 @@ permalink: /bernal/
 ---
 ![bernal image](../img/bernal.jpg)
 
-	teresita.bernal@ucsf.edu
+teresita.bernal@ucsf.edu
 
  
 Teresita manages the day-to-day operations in the Yamamoto lab. In addition, she assists scientists with their research projects.  She is the liaison between the department safety advisor and the lab; and, collaborates with Dr. Yamamoto and lab members to ensure compliance with institutional and governmental  EH&S mandates.
 
-***
 
 **Education**
 
@@ -21,7 +20,6 @@ St. Louis University
 
 Baguio City, Philippines
 
-***
 
 **Work experience**
 
@@ -31,7 +29,6 @@ Staff Research Associate/Lab Manager
 
 University of California, San Francisco
 
-*** 
 
 **Past:**
 
@@ -63,7 +60,6 @@ St. Louis University, Mobile Nursing Clinic
 
 Baguio City, Philippines
 
-***
 
 **Selected publications**
 

@@ -8,13 +8,12 @@ permalink: /knuesel/
 
 
 
-	matthew.knuesel@ucsf.edu
+matthew.knuesel@ucsf.edu
 
  
 
 Structural shifts within the glucocorticoid receptor (GR) are known to control a variety of its functions including coactivator binding and cellular localization.  There is a wealth of structural knowledge pertaining to the individual domains of GR, yet how these domains interact to control transcription in the context of the full length protein is still largely unknown.  I am interested in determining how changes in these larger scale inter-domain interactions regulate GR function through allostery.
 
-***
 
 **Current affiliations** (Examining allosteric regulation of the Glucocorticoid Receptor):
 
@@ -37,7 +36,6 @@ University of Colorado, Department of Biochemistry (Dr. Xuedong Liu), Boulder, C
 
 University of Colorado, Department of Molecular, Cellular, and Developmental Biology, Boulder, Colorado
 
-***  
 
 **Selected publications**
 
@@ -67,7 +65,6 @@ Macdonald M., Y. Wan, W. Wang, E. Roberts, T. H. Cheung, R. Erickson, M. Knuesel
 
 Knuesel M., Y. Wan, Z. Xiao, E. Holinger, N. Lowe, W. Wang, and X. Liu. 2003.  Identification of novel protein-protein interactions using a versatile mammalian tandem affinity purification expression system.  Mol Cell Proteomics. 2(11):1225-53.
 
-*** 
 
 **Hobbies and skills**
 
