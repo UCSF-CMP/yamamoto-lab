@@ -9,9 +9,9 @@ permalink: /contact/
  
 **Keith R. Yamamoto, Ph.D.** 
 
-Vice Chancellor for Research, UCSF<br>
-Executive Vice Dean, School of Medicine<br>
-Professor, Cellular and Molecular Pharmacology<br>
+Vice Chancellor for Science Policy and Strategy, UCSF<br>
+Vice Dean for Research, School of Medicine<br>
+Professor, Cellular & Molecular Pharmacology<br>
 600 16th Street, GH S572D, Box 2280M<br>
 San Francisco, CA 94143-2280<br>
 (415) 476-8445 tel<br>
@@ -20,16 +20,16 @@ keith.yamamoto@ucsf.edu<br>
  
 ####Keith Yamamoto's Assistant:
  
-**Jennifer Banaszek**<br>
-(415) 476-8445 (tel)<br>
-(415) 514-4112 (fax) <br>
-jenny.banaszek@ucsf.edu<br>
+**Angela Gross**<br>
+(415) 476-8445 tel<br>
+(415) 514-4112 fax <br>
+angela.gross@ucsf.edu<br>
  
 ####Staff Research Associate and Lab Manager:
  
 **Teresita Bernal**<br>
-(415) 476-4480 (tel)<br>
-(415) 514-4112 (fax) <br>
+(415) 476-4480 tel<br>
+(415) 514-4112 fax <br>
 teresita.bernal@ucsf.edu<br>
  
 ####Lab Address:

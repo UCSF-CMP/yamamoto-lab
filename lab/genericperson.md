@@ -7,7 +7,7 @@ email: <email address>
 info: {education: [{title: "<title>", 
 place: "<place>",
 year: "<year>", 
-advisor: "<advisor name>"" }], 
+advisor: "<advisor name>" }], 
 selected_publications: [
 "<publication 1 stuff >",
 "<publication 2 stuff>",

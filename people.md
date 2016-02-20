@@ -9,8 +9,6 @@ subtitle2: Lab Members
 piName: Keith Yamamoto
 piLink: /yamamoto
 ---
-[Alessandro Scacchetti]({{ site.baseurl}}/scacchetti)
-
 [Deborah Thurtle]({{ site.baseurl}}/thurtle)
 
 [Gabriela Monsalve]({{ site.baseurl}}/monsalve)

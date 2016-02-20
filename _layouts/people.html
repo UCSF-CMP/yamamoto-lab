@@ -7,12 +7,37 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
+
+
   <article class="post-content">
+
+
+    {% if page.job_title %}
+      {{page.job_title}}
+    {% endif %}
+
     <img class="person" src="{{page.image}}"/>
     <p>{{ page.email }}</p>
+
+    {% if page.description %}
+      <p>{{ page.description }}</p>
+    {% endif %}
+
+    {% if page.research %}
+      <h1>Research</h1>
+      <p>{{ page.research }}</p>
+    {% endif %}
+
+    {% if page.teaching %}
+      <h1>Teaching</h1>
+      {{ page.teaching }}
+    {% endif %}
+
+    {% if page.info %}
+
     {% if page.info.research_interests %}
       <h1>Research Interests</h1>
-      {{page.info.research_interests}}
+      <p>{{page.info.research_interests}}</p>
     {% endif %}
 
     {% if page.info.education %}
@@ -22,7 +47,7 @@ layout: default
           {{ degree.title }}, {{ degree.year }}
           <p>{{ degree.place }}</p>
           {% if degree.advisor %} 
-          <p>Advisor: {{degree.advisor}}</p>
+          <p>Advisor: {{ degree.advisor}}</p>
           {% endif %}
         </li>
       {% endfor %}
@@ -46,6 +71,8 @@ layout: default
     {% if page.info.hobbies %}
     <h1>Hobbies</h1>
       {{page.info.hobbies}}
+    {% endif %}
+
     {% endif %}
 
   </article>

@@ -1,7 +1,18 @@
 ---
 layout: people
 title: Teresita Bernal
-permalink: /bernal/
+permalink: /Bernal/
+image: ../img/Bernal.jpg
+email: Teresita.Bernal@ucsf.edu
+info: {education: [{title: "Bachelor of Science in Medical Technology", 
+place: "St. Louis University, Baguio City, Philippines",
+year: ""}], 
+selected_publications: [
+"Ward, J.D., Mullaney, B., Schiller, B.J., He le, D., Petnic, S.E., Couillault, C., Pujol, N., Bernal, T.U., Van Gilst, M.R., Ashrafi, K., Ewbank, J.J., Yamamoto, K.R. (2014). Defects in the C. elegans acyl-CoA synthase, acs-3, and nuclear hormone receptor, nhr-25, cause sensitivity to distinct, but overlapping stresses. PLoS One. 20, e92552. ",
+"Ward, J.D., Bojanala, N., Bernal, T., Ashrafi, A., Asahina, M. and Yamamoto, K.R. (2013) Sumoylated NHR-25/NR5A regulates cell fate during C. elegans vulval development. PLoS Genet. 9, e1003992.",
+"Ward, J.D., Bojanala, N., Bernal, T., Ashrafi, A., Asahina, M. and Yamamoto, K.R. (2013) Sumoylated NHR-25/NR5A regulates cell fate during C. elegans vulval development. PLoS Genet. 9, e1003992.",
+"Zou, H., McGarry, T.J., Bernal, T., and Kirschner, M.W.  (1999)  Identification of a Vertebrate Sister-Chromatid Separation Inhibitor Involved in Transformation and Tumorigenesis.  Science 285: 418-422."]
+}
 
 ---
 ![bernal image](../img/bernal.jpg)

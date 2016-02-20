@@ -1,15 +1,12 @@
 ---
 layout: people
 title: Vicky Chan
-permalink: /chan/
-
+permalink: /Chan/
+image: ../img/Chan.jpg
+email: Vicky.Chan@ucsf.edu
+job_title: Financial Analyst, Yamamoto Lab and UCSF Program For Breakthrough Biomedical Research
+info: {education: [{title: "Bachelor of Science (Accounting)", 
+place: "San Francisco State University",
+}], 
+}
 ---
-![chan image](../img/chan.jpg)
-
-vicky.chan@ucsf.edu
-
-**Education:**
- 
-Bachelor of Science, major in Accounting, San Francisco State University
- 
-Financial Analyst, Yamamoto Lab and UCSF Program for Breakthrough Biomedical Research (PBBR)
