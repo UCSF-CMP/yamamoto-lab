@@ -7,8 +7,74 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
+
+
   <article class="post-content">
-    {{ content }}
+
+
+    {% if page.job_title %}
+      {{page.job_title}}
+    {% endif %}
+
+    <img class="person" src="{{page.image}}"/>
+    <p>{{ page.email }}</p>
+
+    {% if page.description %}
+      <p>{{ page.description }}</p>
+    {% endif %}
+
+    {% if page.research %}
+      <h1>Research</h1>
+      <p>{{ page.research }}</p>
+    {% endif %}
+
+    {% if page.teaching %}
+      <h1>Teaching</h1>
+      {{ page.teaching }}
+    {% endif %}
+
+    {% if page.info %}
+
+    {% if page.info.research_interests %}
+      <h1>Research Interests</h1>
+      <p>{{page.info.research_interests}}</p>
+    {% endif %}
+
+    {% if page.info.education %}
+      <h1>Education</h1>
+      {% for degree in page.info.education %}
+        <li>
+          {{ degree.title }}, {{ degree.year }}
+          <p>{{ degree.place }}</p>
+          {% if degree.advisor %} 
+          <p>Advisor: {{ degree.advisor}}</p>
+          {% endif %}
+        </li>
+      {% endfor %}
+    {% endif %}
+
+
+    {% if page.info.fellowships_awards %}
+      <h1>Fellowships and Awards</h1>
+      {% for fellowship in page.info.fellowships_awards%}
+        <li>{{ fellowship }}</li>
+      {% endfor %}
+    {% endif %}
+
+    {% if page.info.selected_publications %}
+      <h1>Selected Publications</h1>
+      {% for pub in page.info.selected_publications %}
+        <li>{{ pub}}</li>
+      {% endfor %}
+    {% endif %}
+
+    {% if page.info.hobbies %}
+    <h1>Hobbies</h1>
+      {{page.info.hobbies}}
+    {% endif %}
+
+    {% endif %}
+
   </article>
 
 </div>

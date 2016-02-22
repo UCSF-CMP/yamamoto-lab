@@ -1,15 +1,14 @@
 ---
-layout: page
+layout: peoplebase
 title: People
 permalink: /people/
+image1: ../img/groupdec2013.jpg
+image2: ../img/groupjuly2015.jpg
+subtitle1: Principal Investigator
+subtitle2: Lab Members
+piName: Keith Yamamoto
+piLink: /yamamoto
 ---
-
-![group1](../img/group1.jpg) 
-
-#Lab Members
-
-[Alessandro Scacchetti]({{ site.baseurl}}/scacchetti)
-
 [Deborah Thurtle]({{ site.baseurl}}/thurtle)
 
 [Gabriela Monsalve]({{ site.baseurl}}/monsalve)
@@ -17,8 +16,6 @@ permalink: /people/
 [Jenny Banaszek]({{ site.baseurl}}/banaszek)
 
 [Jordan Ward]({{ site.baseurl}}/ward)
-
-[Keith Yamamoto]({{ site.baseurl}}/yamamoto)
 
 [Kirk Ehmsen]({{ site.baseurl}}/ehmsen)
 
@@ -32,6 +29,7 @@ permalink: /people/
 
 [Vicky Chan]({{ site.baseurl}}/chan)
 
-![group2](../img/group2.jpg)
+[Elaine Kirschke]({{ site.baseurl}}/kirschke)
+
 
 

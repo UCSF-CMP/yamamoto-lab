@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -28,12 +28,36 @@ ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px; }
 
+h1.orange {
+  color: #F25E31; }
+
+.col2 {
+  -webkit-column-count: 2;
+  /* Chrome, Safari, Opera */
+  -moz-column-count: 2;
+  /* Firefox */
+  column-count: 2; }
+
 /**
  * Images
  */
 img {
   max-width: 100%;
-  vertical-align: middle; }
+  vertical-align: middle;
+  margin: 0 auto;
+  display: block; }
+
+img.sideBySide {
+  max-width: 49%;
+  display: inline-block;
+  text-align: center; }
+
+img.person {
+  text-align: left;
+  margin: 0 0; }
+
+.caption {
+  text-align: center; }
 
 /**
  * Figures
@@ -52,6 +76,13 @@ ul, ol {
 
 li > ul,
 li > ol {
+  margin-bottom: 0; }
+
+li {
+  list-style-type: none;
+  margin-bottom: 0.75em; }
+
+li p {
   margin-bottom: 0; }
 
 /**
