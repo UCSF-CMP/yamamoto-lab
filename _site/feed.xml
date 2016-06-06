@@ -2,14 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yamamoto Lab</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://questular.ucsf.edu/</link>
-    <atom:link href="http://questular.ucsf.edu/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 19 Feb 2016 21:59:49 -0800</pubDate>
-    <lastBuildDate>Fri, 19 Feb 2016 21:59:49 -0800</lastBuildDate>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 23 Feb 2016 14:59:24 -0800</pubDate>
+    <lastBuildDate>Tue, 23 Feb 2016 14:59:24 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-
     
       <item>
         <title>Exciting News</title>
@@ -19,8 +17,8 @@
 [UCSF-GitHub]: https://github.com/UCSF/&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Apr 2015 08:30:10 -0700</pubDate>
-        <link>http://questular.ucsf.edu/jekyll/update/2015/04/01/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://questular.ucsf.edu/jekyll/update/2015/04/01/welcome-to-jekyll.html</guid>
+        <link>/jekyll/update/2015/04/01/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/jekyll/update/2015/04/01/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
