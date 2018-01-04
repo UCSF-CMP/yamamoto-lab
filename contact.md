@@ -6,8 +6,8 @@ permalink: /contact/
 
 
 ###Contact Information
- 
-**Keith R. Yamamoto, Ph.D.** 
+
+**Keith R. Yamamoto, Ph.D.**
 
 Vice Chancellor for Science Policy and Strategy, UCSF<br>
 Vice Dean for Research, School of Medicine<br>
@@ -17,21 +17,21 @@ San Francisco, CA 94143-2280<br>
 (415) 476-8445 tel<br>
 (415) 514-4112 fax<br>
 keith.yamamoto@ucsf.edu<br>
- 
+
 ####Keith Yamamoto's Assistant:
- 
+
 **Angela Gross**<br>
 (415) 476-8445 tel<br>
 (415) 514-4112 fax <br>
 angela.gross@ucsf.edu<br>
- 
-####Staff Research Associate and Lab Manager:
- 
+
+####Staff Research Associate and Lab Manager::
+
 **Teresita Bernal**<br>
 (415) 476-4480 tel<br>
 (415) 514-4112 fax <br>
 teresita.bernal@ucsf.edu<br>
- 
+
 ####Lab Address:
 Cellular and Molecular Pharmacology<br>
 UC San Francisco - Mission Bay<br>
