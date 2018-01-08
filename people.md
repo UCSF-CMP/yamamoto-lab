@@ -1,35 +1,41 @@
 ---
-layout: peoplebase
+layout: peoplebase_new
 title: People
 permalink: /people/
-image1: ../img/groupdec2013.jpg
-image2: ../img/groupjuly2015.jpg
-subtitle1: Principal Investigator
-subtitle2: Lab Members
-piName: Keith Yamamoto
-piLink: /yamamoto
 ---
-[Deborah Thurtle]({{ site.baseurl}}/thurtle)
 
-[Gabriela Monsalve]({{ site.baseurl}}/monsalve)
+## Principal Investigator
 
-[Jenny Banaszek]({{ site.baseurl}}/banaszek)
+[Keith Yamamoto]({{_site.baseurl}}/yamamoto)
 
-[Jordan Ward]({{ site.baseurl}}/ward)
+### Lab Members
 
-[Kirk Ehmsen]({{ site.baseurl}}/ehmsen)
-
-[Lindsey Pack]({{ site.baseurl}}/pack)
-
-[Masako Asahina]({{ site.baseurl}}/asahina)
+![](../img/groupdec2013.jpg)
 
 [Matthew Knuesel]({{ site.baseurl}}/knuesel)
 
-[Teresita Bernal]({{ site.baseurl}}/bernal)
-
-[Vicky Chan]({{ site.baseurl}}/chan)
+[Kirk Ehmsen]({{ site.baseurl}}/ehmsen)
 
 [Elaine Kirschke]({{ site.baseurl}}/kirschke)
 
+[Masako Asahina]({{ site.baseurl}}/asahina)
 
+[Teresita Bernal]({{ site.baseurl}}/bernal)
 
+[Angela Gross]({{ site.baseurl}}/gross)
+
+[Vicky Chan]({{ site.baseurl}}/chan)
+
+[Linda Reilly]({{ site.baseurl}}/reilly)
+
+## Former Lab Members
+
+![](../img/groupjuly2015.jpg)
+
+[Jordan Ward]({{ site.baseurl}}/ward)
+
+[Lindsey Pack]({{ site.baseurl}}/pack)
+
+[Deborah Thurtle]({{ site.baseurl}}/thurtle)
+
+[Gabriela Monsalve]({{ site.baseurl}}/monsalve)
