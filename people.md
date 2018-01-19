@@ -6,36 +6,36 @@ permalink: /people/
 
 ## Principal Investigator
 
-[Keith Yamamoto]({{_site.baseurl}}/yamamoto)
+[Keith Yamamoto]({{_site.baseurl}}/yamamoto) (<yamamoto@ucsf.edu>)
 
 ### Lab Members
 
-![](../img/groupdec2013.jpg)
+![groupdec2013](../img/groupdec2013.jpg)
 
-[Matthew Knuesel]({{ site.baseurl}}/knuesel)
+[Matthew Knuesel]({{ site.baseurl}}/knuesel) (<Matthew.Knuesel@ucsf.edu>)
 
-[Kirk Ehmsen]({{ site.baseurl}}/ehmsen)
+[Kirk Ehmsen]({{ site.baseurl}}/ehmsen) (<Krik.Ehmsen@ucsf.edu>)
 
-[Elaine Kirschke]({{ site.baseurl}}/kirschke)
+[Elaine Kirschke]({{ site.baseurl}}/kirschke) (<Elaine.Kirscheke@ucsf.edu>)
 
-[Masako Asahina]({{ site.baseurl}}/asahina)
+[Masako Asahina]({{ site.baseurl}}/asahina)  (<Masako.Asahina@ucsf.edu>)
 
-[Teresita Bernal]({{ site.baseurl}}/bernal)
+[Deborah Thurtle]({{ site.baseurl}}/thurtle) (<Deborah.Thurtle@ucsf.edu>)
 
-[Angela Gross]({{ site.baseurl}}/gross)
+[Teresita Bernal]({{ site.baseurl}}/bernal) (<Teresita.Bernal@ucsf.edu>)
 
-[Vicky Chan]({{ site.baseurl}}/chan)
+[Angela Gross]({{ site.baseurl}}/gross) (<Angela.Gross@ucsf.edu>)
 
-[Linda Reilly]({{ site.baseurl}}/reilly)
+[Vicky Chan]({{ site.baseurl}}/chan) (<Vicky.Chan@ucsf.edu>)
+
+[Linda Reilly]({{ site.baseurl}}/reilly) (<Linda.Reilly@ucsf.edu>)
 
 ## Former Lab Members
 
-![](../img/groupjuly2015.jpg)
+![groupjuly2015](../img/groupjuly2015.jpg)
 
 [Jordan Ward]({{ site.baseurl}}/ward)
 
 [Lindsey Pack]({{ site.baseurl}}/pack)
-
-[Deborah Thurtle]({{ site.baseurl}}/thurtle)
 
 [Gabriela Monsalve]({{ site.baseurl}}/monsalve)

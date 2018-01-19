@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Angela Gross
-permalink: /Gross/
+permalink: /gross/
 image: ../img/gross.jpg
 email: angela.gross.ucsf.edu
 info: {education: [{title: "<title>",

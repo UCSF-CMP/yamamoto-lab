@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Masako Asahina
-permalink: /Asahina/
+permalink: /asahina/
 image: ../img/asahina.jpg
 email: masako.asahina@ucsf.edu
 info: {education: [
