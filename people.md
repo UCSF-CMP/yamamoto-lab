@@ -26,7 +26,7 @@ permalink: /people/
 
 [Teresita Bernal]({{ site.baseurl}}/bernal) (<Teresita.Bernal@ucsf.edu>)
 
-#### Administrativ Crew
+#### Administrative Crew
 
 [Angela Gross]({{ site.baseurl}}/gross) (<Angela.Gross@ucsf.edu>)
 
