@@ -34,7 +34,7 @@ permalink: /people/
 
 [Linda Reilly]({{ site.baseurl}}/reilly) (<Linda.Reilly@ucsf.edu>)
 
-## Former Lab Members
+### Former Lab Members
 
 [Jordan Ward]({{ site.baseurl}}/ward)
 
