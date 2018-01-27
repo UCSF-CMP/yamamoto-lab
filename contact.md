@@ -16,7 +16,7 @@ San Francisco, CA 94143-2280<br>
 Tel: (415) 476-8445<br>
 yamamoto@ucsf.edu<br>
 
-##### Keith Yamamoto's Assistant:
+#### Keith Yamamoto's Assistant:
 
 **Angela Gross**<br>
 Tel: (415) 476-8445<br>
