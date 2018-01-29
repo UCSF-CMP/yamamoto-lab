@@ -12,6 +12,8 @@ permalink: /people/
 
 ![groupdec2013](../img/groupdec2013.jpg)
 
+#### Reseach Crew
+
 [Matthew Knuesel]({{ site.baseurl}}/knuesel) (<Matthew.Knuesel@ucsf.edu>)
 
 [Kirk Ehmsen]({{ site.baseurl}}/ehmsen) (<Krik.Ehmsen@ucsf.edu>)
@@ -24,18 +26,21 @@ permalink: /people/
 
 [Teresita Bernal]({{ site.baseurl}}/bernal) (<Teresita.Bernal@ucsf.edu>)
 
+#### Administrative Crew
+
 [Angela Gross]({{ site.baseurl}}/gross) (<Angela.Gross@ucsf.edu>)
 
 [Vicky Chan]({{ site.baseurl}}/chan) (<Vicky.Chan@ucsf.edu>)
 
 [Linda Reilly]({{ site.baseurl}}/reilly) (<Linda.Reilly@ucsf.edu>)
 
-## Former Lab Members
-
-![groupjuly2015](../img/groupjuly2015.jpg)
+### Former Lab Members
 
 [Jordan Ward]({{ site.baseurl}}/ward)
 
 [Lindsey Pack]({{ site.baseurl}}/pack)
 
 [Gabriela Monsalve]({{ site.baseurl}}/monsalve)
+
+
+![groupjuly2015](../img/groupjuly2015.jpg)
